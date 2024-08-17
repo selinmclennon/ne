@@ -1,0 +1,67 @@
+
+
+
+#tepe {background-color: #2c3d50;   
+         color: aliceblue;
+}
+
+.navbar-brand{ color: aliceblue;}
+
+
+
+
+
+
+.new {
+    background-color: #1bbc9b;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+
+navbar container.adamlı {width: 10000px;}
+
+
+
+
+
+
+
+
+#portfolio{ 
+    padding-top: 50px;
+    padding-bottom: 80px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+
+.img-fluid{ border-color: rgb(255, 255, 255);
+            border-style: dotted;
+            border-radius: 4%;}
+
+
+#about {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: #1bbc9b;
+    color: aliceblue;
+    font-size:large;}
+
+footer
+     {background-color: #2c3d50;
+        color: aliceblue;
+        text-align: center;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        margin-top: 0px;
+        }
+
+
+.copyright {
+    background-color:#1a252e;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;}
